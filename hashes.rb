@@ -16,3 +16,12 @@
 celeb_crush={} 
 celeb_crush["Emi"]="Grant Gustin"
 puts celeb_crush
+
+class_celeb_crushes = {
+  "Natalia" => "Timothee Chalemet",
+  "Maya"=> "Michael B. Jordan",
+  "Amira"=>"Cole Sprouse",
+}
+puts class_celeb_crushes
+puts class_celeb_crushes.values 
+puts class_celeb_crushes.keys
