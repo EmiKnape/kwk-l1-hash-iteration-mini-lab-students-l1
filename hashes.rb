@@ -1,7 +1,7 @@
 #hash = {"cheese" => "the stuff on pizza"}
 
-character_names = ["Monica", "Joey", "Phoebe"]characteristics = ["Neat Freak", "Jokester", "Free Spirit"]
-
+character_names = ["Monica", "Joey", "Phoebe"]
+characteristics = ["Neat Freak", "Jokester", "Free Spirit"]
 
 friends_characters = {}
 index = 0 
