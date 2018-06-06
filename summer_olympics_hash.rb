@@ -7,7 +7,7 @@ def create_olympics_hash
     :Beijing => 2008,
     :London => 2012
   }
-end
+#send
 
 def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash createdin create_olympics_hash
