@@ -15,5 +15,5 @@
 
 celeb_crush={} 
 celeb_crush["Emi"] "Grant Gustin"
-
+end 
 puts celeb_crush
