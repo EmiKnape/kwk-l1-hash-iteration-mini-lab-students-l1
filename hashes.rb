@@ -14,6 +14,5 @@
 # puts friends_characters
 
 celeb_crush={} 
-celeb_crush["Emi"] "Grant Gustin"
-end 
+celeb_crush["Emi"]="Grant Gustin"
 puts celeb_crush
